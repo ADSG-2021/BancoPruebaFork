@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADSG_PruebaBanco", "ADSG_PruebaBanco\ADSG_PruebaBanco.csproj", "{640BAC0C-E3E5-4AFD-A620-A21BBC229D47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADSG_BancoPruebaTest", "ADSG_BancoPruebaTest\ADSG_BancoPruebaTest.csproj", "{CA32284C-341B-4FDC-A3E0-724AEBAC06EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{640BAC0C-E3E5-4AFD-A620-A21BBC229D47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{640BAC0C-E3E5-4AFD-A620-A21BBC229D47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{640BAC0C-E3E5-4AFD-A620-A21BBC229D47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{640BAC0C-E3E5-4AFD-A620-A21BBC229D47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA32284C-341B-4FDC-A3E0-724AEBAC06EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA32284C-341B-4FDC-A3E0-724AEBAC06EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA32284C-341B-4FDC-A3E0-724AEBAC06EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA32284C-341B-4FDC-A3E0-724AEBAC06EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C845510C-B6ED-4285-ACE6-F61D8F27B34E}
+	EndGlobalSection
+EndGlobal
